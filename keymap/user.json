@@ -1,0 +1,12 @@
+{
+  "keymap": [
+    {
+      "key": "ctrl-g ctrl-f",
+      "trigger": "git/fetch"
+    },
+    {
+      "key": "ctrl-g ctrl-b",
+      "trigger": "git/branches"
+    }
+  ]
+}
